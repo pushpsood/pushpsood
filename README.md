@@ -33,6 +33,8 @@
 <h2 align="center">Latest Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Print Maximum subarray: Constant Space &amp; linear time](https://pushpsood.medium.com/print-maximum-subarray-constant-space-linear-time-b1e4b9744df4?source=rss-85da96425f4f------2)
+- [Object Oriented Design Refresher: What I learned as Amazon SDE](https://pushpsood.medium.com/object-oriented-design-refresher-what-i-learned-as-amazon-sde-5e38bea8a74d?source=rss-85da96425f4f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"> ---<br><br>  </p>
