@@ -26,7 +26,7 @@
 
 - 📫 How to reach me: **contact@pushpsood.com**
 
-- 📄 Know about my experiences: [https://acrobat.adobe.com/id/urn:aaid:sc:AP:37f648f4-07e1-4d2b-8c68-436d38b6a78a](https://acrobat.adobe.com/id/urn:aaid:sc:AP:37f648f4-07e1-4d2b-8c68-436d38b6a78a)
+- 📄 Know about my experiences: [Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:37ede9ea-57dd-423e-a29d-2d33e31ff3cd)
 
 - ⚡ Fun fact: **I am national badminton player**
 
