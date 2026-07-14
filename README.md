@@ -33,6 +33,7 @@
 <h3 align="left">Latest Blog posts:</h3>
   
 <!-- BLOG-POST-LIST:START -->
+- [Onehook Real-Time End-to-End Encrypted Hybrid REST + GraphQL Chat Service Serverless Architecture](https://pushpsood.medium.com/onehook-real-time-end-to-end-encrypted-hybrid-rest-graphql-chat-service-serverless-architecture-c89afd5479e0?source=rss-85da96425f4f------2)
 - [Design Patterns Refresher: What I learned as Amazon SDE](https://pushpsood.medium.com/design-patterns-refresher-what-i-learned-as-amazon-sde-ac0dc2d88e21?source=rss-85da96425f4f------2)
 - [Print Maximum subarray: Constant Space &amp; linear time](https://pushpsood.medium.com/print-maximum-subarray-constant-space-linear-time-b1e4b9744df4?source=rss-85da96425f4f------2)
 - [Object Oriented Design Refresher: What I learned as Amazon SDE](https://pushpsood.medium.com/object-oriented-design-refresher-what-i-learned-as-amazon-sde-5e38bea8a74d?source=rss-85da96425f4f------2)
